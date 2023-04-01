@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "841428042350",
+    "firebase_url": "https://business-manager-8bdf5.firebaseio.com",
+    "project_id": "business-manager-8bdf5",
+    "storage_bucket": "business-manager-8bdf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841428042350:android:5134612aab0cbbf7485c7f",
+        "android_client_info": {
+          "package_name": "com.arstyn.business_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841428042350-1fc8fj1eapva5go2loeupamage8fhgm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMZaa0JMgszoQmjd3P0OkUi-mvFpJgW30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841428042350-1fc8fj1eapva5go2loeupamage8fhgm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
